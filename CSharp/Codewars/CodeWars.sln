@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34310.174
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneNumber", "PhoneNumber\PhoneNumber.csproj", "{3AE7FE67-911A-4A0B-9B00-08CBD3C4B3CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneNumber", "7-Kyu\PhoneNumber\PhoneNumber.csproj", "{3AE7FE67-911A-4A0B-9B00-08CBD3C4B3CA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DuplicatesCounter", "DuplicatesCounter\DuplicatesCounter.csproj", "{561B6A6F-FAC1-4BC4-BB50-49A7B61FAC82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DuplicatesCounter", "7-Kyu\DuplicatesCounter\DuplicatesCounter.csproj", "{561B6A6F-FAC1-4BC4-BB50-49A7B61FAC82}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsAnagram", "IsAnagram\IsAnagram.csproj", "{3917ED0A-09CB-4BB6-BDBB-59323DCC5028}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsAnagram", "7-Kyu\IsAnagram\IsAnagram.csproj", "{3917ED0A-09CB-4BB6-BDBB-59323DCC5028}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetUnique", "GetUnique\GetUnique.csproj", "{03CB0BC4-0001-44E9-9AA0-70D3BE626156}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetUnique", "7-Kyu\GetUnique\GetUnique.csproj", "{03CB0BC4-0001-44E9-9AA0-70D3BE626156}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
